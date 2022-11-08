@@ -5,7 +5,7 @@
 
 ## 2. Models 
 
-YOLOv5, RCNN
+YOLOv5, ~RCNN~
 
 ## 3. Data 
   -roboflow:
