@@ -6,11 +6,14 @@
 ## 2. Experiment design
   
    (1) 정상데이터 (비교군)
+   
    (2) Grayscale 방식
+   
    (3) Contrast 방식
+   
    (4) RGB 값을 해당 이미지의 평균값으로 나눠서 만든 데이터
   
-   (TEST data): 어두운 데이터
+    (TEST data): 어두운 데이터
    
 ## 3. Data 
   -roboflow:
@@ -18,8 +21,10 @@
   -kaggle:
   
 ## 4. data preprocessing 
-   -Adding noise 
+   -Adding noise
+   
    -augmentation of images 
+   
    -Nomalization
 
 ## 5. Models 
