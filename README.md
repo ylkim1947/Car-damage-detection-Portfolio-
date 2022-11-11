@@ -7,7 +7,7 @@
   
    (1) 정상데이터 (비교군)
    
-   (2) Grayscale 방식
+   (2) Greyscale 방식
    
    (3) Contrast 방식
    
