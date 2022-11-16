@@ -1,4 +1,5 @@
 # Car-damage-detection-Portfolio (cp 1)-
+## 0. 문제 정의
 
 ## 1. Goal of this project
 학습데이터 전처리에 따른 손상탐지 모델 비교
