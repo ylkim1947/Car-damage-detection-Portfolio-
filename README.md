@@ -38,5 +38,3 @@
 <img src="https://user-images.githubusercontent.com/51395479/208250804-0f3d7ab6-1e64-4217-a4dc-8ad3e83819af.png" width=820 height=380/>
 
 
-## 6. 평가 및 한계
-
